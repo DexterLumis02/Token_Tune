@@ -40,3 +40,7 @@ Install required libraries:
 
 ```bash
 pip install -r requirements.txt
+
+![Hardware Setup](https://github.com/DexterLumis02/Token_Tune/blob/main/Hardware_picture.png)
+
+![UI Screenshot](https://github.com/DexterLumis02/Token_Tune/blob/main/Output_ui.png)
