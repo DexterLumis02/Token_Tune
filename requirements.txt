@@ -1,0 +1,5 @@
+mutagen
+pillow
+pygame
+pyserial
+psutil
