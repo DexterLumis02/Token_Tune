@@ -41,6 +41,12 @@ Install required libraries:
 ```bash
 pip install -r requirements.txt
 
+## 🖼️ Screenshots
+
+Here is a screenshot of the **hardware setup**:
+
 ![Hardware Setup](https://github.com/DexterLumis02/Token_Tune/blob/main/Hardware_picture.png)
+
+This is how the **TokenTune UI** looks:
 
 ![UI Screenshot](https://github.com/DexterLumis02/Token_Tune/blob/main/Output_ui.png)
