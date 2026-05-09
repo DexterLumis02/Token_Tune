@@ -4,7 +4,8 @@
 TokenTune is an interactive hardware-software project that uses RFID mood tokens to trigger music playback instantly. When an RFID token is placed, the system detects it, plays a specific music track, and displays feedback on an IPS LCD. Designed for rapid music selection without a screen-touch interface.
 
 ---
-
+![image alt](https://github.com/DexterLumis02/Token_Tune/blob/176c7c2bb1bed41a2229d965a487af2987152979/Hardware_picture.png)
+![image alt](https://github.com/DexterLumis02/Token_Tune/blob/87760e625ad29341756626d03f271677677e1749/Output_ui.png)
 ## 🚀 Features
 
 🧠 **RFID‑Driven Interaction**  
@@ -41,3 +42,7 @@ Install required libraries:
 ```bash
 pip install -r requirements.txt
 
+<<<<<<< HEAD
+=======
+![image alt](https://github.com/DexterLumis02/Token_Tune/blob/176c7c2bb1bed41a2229d965a487af2987152979/Hardware_picture.png)
+>>>>>>> 2de75b2e5432f969414c172cdf455d57893e1133
